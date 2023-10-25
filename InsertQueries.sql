@@ -10,9 +10,9 @@ values(1701,'vijay','sharma','309887340843','m',34,'9988776655',
 'favourite flower','rose');
 
 insert into train(train_no,train_name,arrival_time,departure_time,availability_of_seats,date)
-values(12711,'pinakini exp','113000','114000','a',20170410),
-(12315,'cormandel exp','124500','125000','n',20170410),
-(12255,'shatabdhi exp','135500','140000','n',20170411);
+values(12711,'pinakini exp','113000','114000','a',20230410),
+(12315,'cormandel exp','124500','125000','n',20230410),
+(12255,'shatabdhi exp','135500','140000','n',20230411);
 
 insert into station(no,name,hault,arrival_time,train_no)
 values(111,'vijayawada',10,'113000',12711),
